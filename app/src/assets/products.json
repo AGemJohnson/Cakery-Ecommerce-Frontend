@@ -1,0 +1,51 @@
+{ "products": [
+    {
+        "id":1,
+        "name":"Pound Cake",
+        "description":"",
+        "price":11.99,
+        "layers": 2,
+        "image":"pink.jpg"
+    },
+    {
+        "id":2,
+        "name":"Chocolate Cake",
+        "description":"",
+        "price":11.99,
+        "layers": 2,
+        "image":"oreo-cake-thumb.jpg"
+    },
+    {
+        "id":3,
+        "name":"Red Velvet Cake",
+        "description":"",
+        "price":11.99,
+        "layers": 2,
+        "image":"red.jpg"
+    },
+    {
+        "id":4,
+        "name":"Rum Cake",
+        "description":"",
+        "price":11.99,
+        "layers": 2,
+        "image":"white-carrot-cake.jpg"
+    },
+    {
+        "id":5,
+        "name":"Carrot Cake",
+        "description":"",
+        "price":11.99,
+        "layers": 1,
+        "image":"carrot.jpg"
+    },
+    {
+        "id":6,
+        "name":"Pumpkin Roll",
+        "description":"",
+        "price":11.99,
+        "layers": 1,
+        "image":"cake6.png"
+    }
+    ]
+}
